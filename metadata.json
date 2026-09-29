@@ -1,0 +1,7 @@
+{
+  "name": "InterviewPulse - AI Interview Simulator",
+  "description": "Master behavioral, technical, and leadership job interviews with immersive real-time AI simulations, live speech recognition, video booth practice, and deep STAR scoring.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
